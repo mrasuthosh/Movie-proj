@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block body %}
+<form method="post" class="d_edit">
+    {% csrf_token %}
+    Are You Sure<br>About This ?
+    <input type="submit">
+</form>
+{% endblock %}

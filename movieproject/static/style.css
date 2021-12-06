@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(228, 228, 208, 0.885);
+}
+
+.head{
+    padding-left: 500px;
+}
+
+.u_edit {
+    padding-left: 250px;
+}
+
+.d_edit {
+    padding-left: 250px;
+}
+
+.details_edit{
+    padding-left: 500px;
+}
+.disc {
+    height: 18rem;
+    max-width: inherit;
+}
